@@ -1,0 +1,6 @@
+* [YAML规范 1.0](pages/yaml-spec-1.0.md)
+* [YAML规范 1.1](pages/yaml-spec-1.1.md)
+* [YAML规范 1.2](pages/yaml-spec-1.2/_index.md)
+	* [1.2.0 修订版](pages/yaml-spec-1.2/revision-1.2.0.md)
+	* [1.2.1 修订版](pages/yaml-spec-1.2/revision-1.2.1.md)
+	* [1.2.3 修订版](pages/yaml-spec-1.2/revision-1.2.2.md)
